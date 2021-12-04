@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Cells from "./cells";
-import Navbar from "./navbar";
+import Navbar from "../sortComponents/navbar";
 import DiscreteSlider from "./slider";
 import Menu from "./menu";
 

@@ -27,7 +27,7 @@ class App extends Component {
                     <Route path='/convexhull' component={ConvexHull}/>
                     <Route path='/binarysearch' component={BinarySearch}/>
                     <Route path='/recursivesort' component={RecursiveSort}/>
-                    <Route path='/' component={Home}/>
+                    <Route path='/' component={Sort}/>
                 </Switch>
             </Router>
         );

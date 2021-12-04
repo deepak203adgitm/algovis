@@ -56,21 +56,6 @@ export function getDetails(){
            description:"Binary search is an efficient algorithm for finding an item from a sorted list of item",
            route:"/binarysearch",
            img:binSearch
-       },
-       {
-           id:6,
-           title:"Sudoku",
-           description:"Coming soon...",
-           route:"/",
-           img:sudoku
-       },
-
-       {
-           id:8,
-           title:"15 Puzzle",
-           description:"Coming soon...",
-           route:"/",
-           img:puzzle
        }
 
    ]

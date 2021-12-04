@@ -8,7 +8,7 @@ class TypeWriterC extends Component {
     render() {
         return (
             <div className="type display-3">
-                <span className="badge badge-dark">
+                {/* <span className="badge badge-dark">
                 <Typewriter
                     options={{
                         strings: ['Graph Algorithms', 'Sorting Algorithms',"8 Queen"],
@@ -16,7 +16,7 @@ class TypeWriterC extends Component {
                         loop: true,
                     }}
                 />
-            </span>
+            </span> */}
             </div>
         );
     }

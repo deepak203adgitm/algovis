@@ -10,10 +10,10 @@ class Home extends Component {
         return (
             <React.Fragment>
                 <Navbar/>
-                <Greet/>
-                <TypeWriterC/>
+                {/* <Greet/>
+                <TypeWriterC/> */}
                 <Cards/>
-                <Footer/>
+                {/* <Footer/> */}
             </React.Fragment>
         );
     }
