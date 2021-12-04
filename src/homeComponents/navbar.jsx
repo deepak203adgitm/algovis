@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar,Container,Nav,NavDropdown,Form,FormControl,Button} from 'react-bootstrap';
+
 import { Link } from "react-router-dom";
 
 class navbar extends Component {
