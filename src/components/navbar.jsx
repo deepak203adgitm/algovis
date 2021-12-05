@@ -35,14 +35,14 @@ class Navbar extends Component {
                     </Link>
                 </div>
                 
-
+{/* 
            <div className="collapse navbar-collapse" id="navbarSupportedContent" >
                     <Link to={"/prime"}>
                         <span style={{ color: "white" }}>
                             <b> Prime Sieve </b>
                         </span>
                     </Link>
-                </div>
+                </div> */}
 
             </nav>
         );

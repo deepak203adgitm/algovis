@@ -4,7 +4,7 @@ import Rects from "./rects";
 import mergeSort from '../algorithms/mergeSort';
 import heapSort from "../algorithms/heapSort";
 import {quickSortRecursive} from "../algorithms/quickSortRecursive";
-import Navbar from "../sortComponents/navbar";
+import Navbar from "../components/navbar";
 import Menu from "./menu";
 
 class RecursiveSort extends Component {

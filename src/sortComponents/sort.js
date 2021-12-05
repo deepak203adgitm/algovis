@@ -3,7 +3,7 @@ import Rect from "./rect";
 import Rects from "./rects";
 import {bubbleSort,selectionSort,insertionSort} from "../algorithms/sortingAlgorithms";
 import {quickSort} from "../algorithms/quickSort";
-import Navbar from "./navbar";
+import Navbar from "../components/navbar";
 import Menu from "./menu";
 
 class Sort extends Component {

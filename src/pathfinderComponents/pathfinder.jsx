@@ -1,6 +1,6 @@
 import React, {Component, Fragment} from 'react';
 import Grid from "./grid";
-import Navbar from "../sortComponents/navbar";
+import Navbar from "../components/navbar";
 import Menu from "./menu";
 import {dijkstra,getNodesInShortestPathOrder} from "../algorithms/dijkstra";
 import {getMaze} from "../algorithms/recursiveMaze";
